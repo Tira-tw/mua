@@ -10,4 +10,7 @@
 > `ζั͡幻ั͡月ั͡✾#1853`<br>
 # 📙支援群📙
 https://discord.gg/TQHs5R3NpJ <br>
-
+# 版權
+> 原作者 : [BobeeBeatz](https://replit.com/@BobeeBeatz) <br>
+> 原代碼 : [BobeeBeatz Studio Music](https://replit.com/@BobeeBeatz/BobeeBeatz-Studio-Music) <br>
+> 中文翻譯者 : [Tira-tw](https://github.com/Tira-tw)
